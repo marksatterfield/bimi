@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg viewBox="0 0 600 600" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
+  <ellipse rx="125" ry="125" transform="translate(125 125)" fill="#17d11a" stroke-width="0"/>
+  <ellipse rx="125" ry="125" transform="translate(475 125)" fill="#17d11a" stroke-width="0"/>
+  <ellipse rx="125" ry="125" transform="translate(300 300)" fill="#17d11a" stroke-width="0"/>
+  <ellipse rx="87.5" ry="87.5" transform="translate(300 512.5)" fill="#17d11a" stroke-width="0"/>
+</svg>
